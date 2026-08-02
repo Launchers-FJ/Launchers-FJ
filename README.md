@@ -25,7 +25,7 @@ Launch Layer Fiji is a software development company based in **Fiji**, focused o
 
 We partner with startups, businesses, and government organizations to transform ideas into digital products using modern technologies and best development practices.
 
-> **From concept to deployment — we build software that works.**
+> **From concept to deployment - we build software that works.**
 
 ---
 
