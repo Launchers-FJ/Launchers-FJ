@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="assets/Logo.jpg" width="170"/>
+<img src="assets/ll.jpg" width="170"/>
 
 # 🚀 Launch Layer Fiji
 
