@@ -174,30 +174,6 @@ From startups to enterprises, we build secure, scalable and innovative web appli
 
 ---
 
-# 🤝 Let's Build Something Amazing
-
-<p align="center">
-
-<a href="mailto:hello@launchlayerfiji.com">
-<img src="https://img.shields.io/badge/Email-00C853?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=00FF7F"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF7F"/>
-</a>
-
-</p>
-
----
-
 <p align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:000000,40:0B3D0B,70:00C853,100:00FF7F"/>
