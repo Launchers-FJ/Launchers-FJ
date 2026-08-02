@@ -6,7 +6,7 @@
 
 <img src="assets/ll.png" width="170"/>
 
-# 🚀 Launch Layer Fiji
+# Launch Layer Fiji
 
 ### Building Powerful Web Applications for Businesses in Fiji and Beyond
 
